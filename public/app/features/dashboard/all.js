@@ -22,4 +22,5 @@ define([
   './row/row_ctrl',
   './repeat_option/repeat_option',
   './acl/acl',
+  './folder_picker/picker',
 ], function () {});
